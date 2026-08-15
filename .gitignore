@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.idea/
+.vscode/
+.DS_Store
+
+# Rendered media and local Manim output
+*.mp4
+*.mov
+*.webm
+media/
+manim_output/
+media_files/
+
