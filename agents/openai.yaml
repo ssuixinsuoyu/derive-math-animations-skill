@@ -1,0 +1,4 @@
+interface:
+  display_name: "数学动画逆向与发散"
+  short_description: "拆解数学动画结构，并生成严谨的新选题、分镜与实现路线"
+  default_prompt: "使用 $derive-math-animations 分析给定数学动画素材，提炼可复用模式并生成新的数学或逻辑学动画方案。"
